@@ -1,5 +1,5 @@
 ---
-title: Post Title
+title: dive
 date: 2026-02-14
 author: Your Name
 summary: Short description
