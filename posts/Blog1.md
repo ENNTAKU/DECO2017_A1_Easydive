@@ -1,11 +1,15 @@
 ---
-title: dive
-date: 2026-02-14
-author: Your Name
-summary: Short description
+title: Understanding the Brief and Functional Analysis
+date: 2026-04-21
+author: Xi Lin
+summary: This week, I focused on interpreting the project brief and thinking about what a diving community platform actually needs before deciding on any specific feature.
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Brief
+  - Community Needs
+  - Functional Analysis
 ---
-Write your content here.
+When I first started thinking about this project, I was honestly not very confident about what I could contribute. My teammate is a diving enthusiast, while I know much less about diving itself. At first, I saw this as a disadvantage. However, after reading the brief more carefully, I began to think that this different perspective might actually be useful. If we are designing a Bla+Bla community platform, it should not only make sense to experienced divers. It should also be understandable and useful for people who are newer to diving, less confident, or still trying to find their place in the community.
+My first idea was quite straightforward. I imagined a platform where divers could share photos, post about their experiences, and talk to each other. That felt like a natural starting point because those are the features I usually associate with online communities. However, the more I thought about the brief, the more I realised that this direction was probably too general. People can already do those things on platforms like Reddit, Facebook, or Instagram. If our idea only repeats those features, then it does not really explain why this community would choose Bla+Bla in the first place. Since the brief asks for a unique and community-focused feature, I think our platform needs to do something more specific than simply support posting and discussion.
+This made me rethink the problem. Instead of asking what a diving platform could include, I started asking what a diving community might actually need. Even though I am not an expert diver, it seems clear to me that diving is not just a casual hobby where people chat and share updates. It also involves safety, preparation, trust, and differences in experience level. That means the platform may need to support more than social interaction. It may also need to help people make better decisions, feel more confident, and connect with others in ways that are more suitable to their needs.
+At this stage, I think the stronger direction is probably not “more content sharing,” but something that helps users make safer and more informed choices. For example, one possible idea could be a feature that helps users find dive partners, activities, or local opportunities that match their experience level and interests. Another possible direction could be a tool that makes local dive information easier to compare and understand. I am not treating these as final solutions yet, but they feel more meaningful than generic posting features because they respond to a more specific community problem.
+This early thinking also helped me understand scope more clearly. The assignment is asking us to prototype a standout feature, not build an entire social media platform. Because of that, I think the project needs to stay focused on one important problem and solve it well. For now, my main takeaway is that our design should begin with a real user need, not with a list of common features. At this stage, that feels like the most important first step for building something that is genuinely useful for a diving community.
