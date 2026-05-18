@@ -21,3 +21,5 @@ Explore Sites works differently. It is based on filters and card browsing rather
 Dive Shops uses a more controlled browsing pattern. Instead of open search, it starts with region buttons and then displays dive shop cards. That reduces visual overload and fits the page’s narrower purpose. The same principle appears in the Profile page, which combines a visible profile card with an edit form. This split works well because it separates viewing identity from changing it.
 
 The current user flow is therefore relatively direct: enter through Home, move to Log Dive or Explore Sites, browse Dive Shops when local support is needed, and manage personal information through Profile. The wireframing challenge is not adding more steps. It is keeping each page focused enough that the site remains easy to move through.
+![Entity Relationship Diagram](../dist/assets/images/1.png)
+![Entity Relationship Diagram](../dist/assets/images/2.png)
